@@ -1,4 +1,6 @@
-Run code using vi with code file name.
+To run the code type in cc and the code file name.
+
+After that type in "./a.out".
 
 Type in some words into the array.
 
