@@ -1,0 +1,5 @@
+Create another code file like "test.txt" and type in a few sentences.
+
+After that type cc with this code file name.
+
+Then ./a.out with the other code file to get output.
