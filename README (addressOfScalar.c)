@@ -1,1 +1,3 @@
-Run the file using vi and type the code file name.
+To run the code type in cc and the code file name.
+
+After that type in "./a.out".
