@@ -21,3 +21,10 @@ int main() {
 
         }else
          space = 0;
+}
+
+printf("Average word length : %.1f", (float)letters/words);
+
+return 0;
+
+}
