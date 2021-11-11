@@ -1,0 +1,4 @@
+ Type ten lines with “man [command you want] |cat >> mandata.txt
+·      Then create helpme.sh file by typing vi helpme.sh and type in code from helpme_sh.doc
+·      Save and exit the file by clicking the “esc” button and type in “:wq” and hit enter
+·      To test the code type in sh helpme.sh and type a command to see if it was one that you added in or not based off the result you get back
