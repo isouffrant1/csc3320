@@ -1,0 +1,5 @@
+Create script shell file “vi calculator.sh”
+Enter code from “calculator_sh.doc” file
+Save and exit file by clicking the esc button and type in “:wq”
+Run code by typing in “sh calculator.sh” and type in the required input to get what you want
+
